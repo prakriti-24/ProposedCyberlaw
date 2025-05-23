@@ -1,11 +1,12 @@
-# Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+# Assignment Title : Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
 **Course Title:** Computer Ethics and Cyber Law  
 **Course Code:** CSE 455  
 
-**Submitted by:** Prakriti Paramarthi Roy  
+**Submitted by:**  
+**Name:** Prakriti Paramarthi Roy  
 **ID:** 2002003  
-**Date:** 22 May 2025  
+**Date:** 23 May 2025    
 
 **Submitted to:**  
 Pankaj Bhowmik  
