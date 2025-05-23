@@ -11,7 +11,7 @@
 **Submitted to:**  
 Pankaj Bhowmik  
 Lecturer  
-Department of Computer Science and Technology  
+Department of Computer Science and Engineering  
 
 ---
 
